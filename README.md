@@ -1,4 +1,6 @@
-# Student-Management-
+# Student-Management windows forms application-
+Unzip and add the stu1 and 2 files together. Then run the Sln file. 
+
 Admin password: admin1 / Admin Username: admin1
 staff password : staff / staff username : staff
 
